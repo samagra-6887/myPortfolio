@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/myPortfolio/static/css/main.4b987d97.css",
-    "main.js": "/myPortfolio/static/js/main.64ee5327.js",
+    "main.js": "/myPortfolio/static/js/main.a39c3aeb.js",
     "static/media/about.jpg": "/myPortfolio/static/media/about.588e76e75a8c07ffc9a1.jpg",
     "static/media/home.JPG": "/myPortfolio/static/media/home.588e76e75a8c07ffc9a1.JPG",
     "static/media/Samagra-Resume.pdf": "/myPortfolio/static/media/Samagra-Resume.36296d236c3de4362b45.pdf",
     "index.html": "/myPortfolio/index.html",
     "main.4b987d97.css.map": "/myPortfolio/static/css/main.4b987d97.css.map",
-    "main.64ee5327.js.map": "/myPortfolio/static/js/main.64ee5327.js.map"
+    "main.a39c3aeb.js.map": "/myPortfolio/static/js/main.a39c3aeb.js.map"
   },
   "entrypoints": [
     "static/css/main.4b987d97.css",
-    "static/js/main.64ee5327.js"
+    "static/js/main.a39c3aeb.js"
   ]
 }
