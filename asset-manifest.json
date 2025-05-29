@@ -1,16 +1,21 @@
 {
   "files": {
-    "main.css": "/myPortfolio/static/css/main.4b987d97.css",
-    "main.js": "/myPortfolio/static/js/main.a39c3aeb.js",
-    "static/media/about.jpg": "/myPortfolio/static/media/about.588e76e75a8c07ffc9a1.jpg",
-    "static/media/home.JPG": "/myPortfolio/static/media/home.588e76e75a8c07ffc9a1.JPG",
-    "static/media/Samagra-Resume.pdf": "/myPortfolio/static/media/Samagra-Resume.36296d236c3de4362b45.pdf",
-    "index.html": "/myPortfolio/index.html",
-    "main.4b987d97.css.map": "/myPortfolio/static/css/main.4b987d97.css.map",
-    "main.a39c3aeb.js.map": "/myPortfolio/static/js/main.a39c3aeb.js.map"
+    "main.css": "/static/css/main.1bd101df.css",
+    "main.js": "/static/js/main.1ec0f6fa.js",
+    "static/media/about.jpg": "/static/media/about.588e76e75a8c07ffc9a1.jpg",
+    "static/media/home.JPG": "/static/media/home.588e76e75a8c07ffc9a1.JPG",
+    "static/media/Samagra-Resume.pdf": "/static/media/Samagra-Resume.36296d236c3de4362b45.pdf",
+    "static/media/work2.jpg": "/static/media/work2.e52a0c2981a6c11ba468.jpg",
+    "static/media/work4.jpg": "/static/media/work4.aee985961b648f4df1f2.jpg",
+    "static/media/work5.jpg": "/static/media/work5.094ec4a2224db8908873.jpg",
+    "static/media/work1.jpg": "/static/media/work1.321b4ae3bf404acdfdc6.jpg",
+    "static/media/work3.jpg": "/static/media/work3.135e9065694bc13dc31d.jpg",
+    "index.html": "/index.html",
+    "main.1bd101df.css.map": "/static/css/main.1bd101df.css.map",
+    "main.1ec0f6fa.js.map": "/static/js/main.1ec0f6fa.js.map"
   },
   "entrypoints": [
-    "static/css/main.4b987d97.css",
-    "static/js/main.a39c3aeb.js"
+    "static/css/main.1bd101df.css",
+    "static/js/main.1ec0f6fa.js"
   ]
 }
