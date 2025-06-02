@@ -2,7 +2,8 @@
   "name": "myfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/samagra-6887/myPortfolio.git",
+  "homepage": "https://samagra-6887.github.io/myPortfolio",
+
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
     "@testing-library/dom": "^10.4.0",
