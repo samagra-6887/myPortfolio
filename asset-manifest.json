@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/myPortfolio/static/css/main.192fdbca.css",
+    "main.js": "/myPortfolio/static/js/main.268642b7.js",
+    "static/js/453.01123ecf.chunk.js": "/myPortfolio/static/js/453.01123ecf.chunk.js",
+    "static/media/about.jpg": "/myPortfolio/static/media/about.588e76e75a8c07ffc9a1.jpg",
+    "static/media/home.JPG": "/myPortfolio/static/media/home.588e76e75a8c07ffc9a1.JPG",
+    "static/media/Samagra-Resume.pdf": "/myPortfolio/static/media/Samagra-Resume.36296d236c3de4362b45.pdf",
+    "static/media/work2.jpg": "/myPortfolio/static/media/work2.e52a0c2981a6c11ba468.jpg",
+    "static/media/work4.jpg": "/myPortfolio/static/media/work4.aee985961b648f4df1f2.jpg",
+    "static/media/work5.jpg": "/myPortfolio/static/media/work5.094ec4a2224db8908873.jpg",
+    "static/media/work1.jpg": "/myPortfolio/static/media/work1.321b4ae3bf404acdfdc6.jpg",
+    "static/media/work3.jpg": "/myPortfolio/static/media/work3.135e9065694bc13dc31d.jpg",
+    "index.html": "/myPortfolio/index.html",
+    "main.192fdbca.css.map": "/myPortfolio/static/css/main.192fdbca.css.map",
+    "main.268642b7.js.map": "/myPortfolio/static/js/main.268642b7.js.map",
+    "453.01123ecf.chunk.js.map": "/myPortfolio/static/js/453.01123ecf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.192fdbca.css",
+    "static/js/main.268642b7.js"
+  ]
+}
