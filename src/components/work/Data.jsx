@@ -8,32 +8,37 @@ export const projectsData = [
   {
     id: 1,
     image: Work1,
-    title: "Web design",
+    title: "College Alumni Site",
     category: "web",
+    url: "https://github.com/samagra-6887",
   },
   {
     id: 2,
     image: Work2,
-    title: "App movil",
+    title: "EaseMe Web",
     category: "app",
+    url: 'https://github.com/samagra-6887',
   },
   {
     id: 3,
     image: Work3,
     title: "Brand design",
     category: "design",
+    url: 'https://github.com/samagra-6887',
   },
   {
     id: 4,
     image: Work4,
-    title: "App movil",
+    title: "Saas Teaching App",
     category: "app",
+    url: 'https://github.com/samagra-6887',
   },
   {
     id: 5,
     image: Work5,
-    title: "Web design",
+    title: "Portfolio Website",
     category: "Web",
+    url: 'https://github.com/samagra-6887',
   },
 ];
 
